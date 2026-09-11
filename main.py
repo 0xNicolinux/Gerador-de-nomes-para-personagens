@@ -1,14 +1,16 @@
 import random
 
 names = [
-    "Ayla", "Breno", "Cael", "Dália", "Eron", "Fiona", "Gael", "Helena",
-    "Ícaro", "Júlia", "Kael", "Lívia", "Milo", "Nádia", "Orion", "Pietro",
-    "Quíron", "Ravi", "Sofia", "Téo", "Ulisses", "Valentina", "Willa", "Yara",
-    "Zara", "José", "Maria", "Pedro",
+    "Courier", "Lone Wanderer", "Sole Survivor", "Vulpes", "Morrowind", "Dovahkiin",
+    "Nerevar", "Tiber", "Ulfric", "Ayla", "Breno", "Cael", "Dália", "Eron", "Fiona",
+    "Gael", "Helena", "Ícaro", "Júlia", "Kael", "Lívia", "Milo", "Nádia", "Orion",
+    "Pietro", "Quíron", "Ravi", "Sofia", "Téo", "Ulisses", "Valentina", "Willa",
+    "Yara", "Zara", "José", "Maria", "Pedro",
 ]
 
 classes = [
-    "Alquimista", "Arqueiro", "Bardo", "Clérigo", "Druida", "Feiticeiro",
+    "Vault Dweller", "Ranger (NCR)", "Paladino (Brotherhood)", "Ghoul Scavenger", "Caçador de Dragões",
+    "Dovahkiin", "Alquimista", "Arqueiro", "Bardo", "Clérigo", "Druida", "Feiticeiro",
     "Guerreiro", "Ladino", "Mago", "Monge", "Paladino", "Ranger",
     "Cavaleiro", "Necromante", "Berserker",
 ]
@@ -17,6 +19,8 @@ races = [
     "Humano", "Anão", "Elfo", "Meio-elfo", "Orc", "Troll", "Goblin",
     "Halfling", "Draconato", "Tiefling", "Fada", "Gnomo", "Vampiro",
     "Sereiano", "Gigante", "Centauro",
+    "Ghoul", "Super Mutante", "Khajiit", "Argoniano", "Dunmer (Dark Elf)",
+    "Altmer (High Elf)", "Nórdico", "Dragonborn (Dovahkiin)",
 ]
 
 attributes = [
